@@ -1,3 +1,6 @@
+//Mayla Toshimi Nagai
+//Luana Pereira dos Reis
+
 package maquinadecafe;
 
 public class ControlarMaquina {
